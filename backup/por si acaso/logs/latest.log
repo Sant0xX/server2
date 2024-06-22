@@ -1,0 +1,66 @@
+[05:18:29] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.15.11
+[05:18:30] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.15.11
+	   \-- mixinextras 0.3.5
+	- java 21
+	- minecraft 1.21
+[05:18:30] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/workspaces/server2/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/sponge-mixin-0.13.3+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[05:18:39] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[05:18:42] [main/INFO]: Loaded 1290 recipes
+[05:18:42] [main/INFO]: Loaded 1399 advancements
+[05:18:43] [Server thread/INFO]: Starting minecraft server version 1.21
+[05:18:43] [Server thread/INFO]: Loading properties
+[05:18:43] [Server thread/INFO]: Default game type: SURVIVAL
+[05:18:43] [Server thread/INFO]: Generating keypair
+[05:18:43] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:18:43] [Server thread/INFO]: Using epoll channel type
+[05:18:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:18:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:18:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:18:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:18:43] [Server thread/INFO]: Preparing level "world"
+[05:18:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:18:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:18:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:18:52] [Server thread/INFO]: Time elapsed: 751 ms
+[05:18:52] [Server thread/INFO]: Done (8.782s)! For help, type "help"
+[05:19:08] [Server thread/INFO]: Sant0xX[/127.45.58.6:55653] logged in with entity id 4 at (147.62349750929752, 68.0, -2586.1598247680554)
+[05:19:08] [Server thread/INFO]: Sant0xX joined the game
+[05:19:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[05:21:01] [Server thread/INFO]: marcosdls[/127.56.114.158:43795] logged in with entity id 754 at (80.46710798381204, 68.0, -2618.643563337681)
+[05:21:01] [Server thread/INFO]: marcosdls joined the game
+[05:34:49] [Server thread/INFO]: [Not Secure] <Sant0xX> se pajea y mancha la cama de luca*
+[05:50:37] [Server thread/INFO]: Sant0xX has made the advancement [Enchanter]
+[05:55:57] [Server thread/INFO]: marcosdls lost connection: You logged in from another location
+[05:55:57] [Server thread/INFO]: marcosdls left the game
+[05:55:57] [Server thread/WARN]: handleDisconnection() called twice
+[05:55:58] [Server thread/INFO]: marcosdls[/127.245.157.178:45857] logged in with entity id 8833 at (144.2930330630674, 65.02442408821369, -2607.5166719551726)
+[05:55:58] [Server thread/INFO]: marcosdls joined the game
+[06:07:27] [Server thread/INFO]: [Not Secure] <marcosdls> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[06:07:30] [Server thread/INFO]: [Not Secure] <Sant0xX> LE MANCHA LA CAMA DE SEMEN
+[06:08:08] [Server thread/INFO]: Sant0xX has made the advancement [Tactical Fishing]
+[06:50:31] [Server thread/INFO]: XLUC4W[/127.128.50.243:46109] logged in with entity id 19522 at (78.60469279652753, 68.1212968405392, -2617.9415416326565)
+[06:50:31] [Server thread/INFO]: XLUC4W joined the game
+[06:57:15] [Server thread/INFO]: Sant0xX lost connection: Disconnected
+[06:57:15] [Server thread/INFO]: Sant0xX left the game
+[06:57:20] [Server thread/INFO]: Sant0xX[/127.45.58.6:37689] logged in with entity id 21067 at (143.87704324594247, 64.0, -2588.1664985337643)
+[06:57:20] [Server thread/INFO]: Sant0xX joined the game
+[07:04:42] [Server thread/INFO]: [Sant0xX: Gave 1 [Diamond Sword] to XLUC4W]
+[07:04:50] [Server thread/INFO]: [Sant0xX: Gave 1 [Diamond Pickaxe] to XLUC4W]
+[07:05:04] [Server thread/INFO]: Sant0xX lost connection: Disconnected
+[07:05:04] [Server thread/INFO]: Sant0xX left the game
+[07:05:04] [Server thread/INFO]: marcosdls lost connection: Disconnected
+[07:05:04] [Server thread/INFO]: marcosdls left the game
+[07:05:06] [Server thread/INFO]: XLUC4W lost connection: Disconnected
+[07:05:06] [Server thread/INFO]: XLUC4W left the game
+[07:05:11] [Server thread/INFO]: Stopping the server
+[07:05:11] [Server thread/INFO]: Stopping server
+[07:05:11] [Server thread/INFO]: Saving players
+[07:05:11] [Server thread/INFO]: Saving worlds
+[07:05:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:05:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07:05:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07:05:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:05:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:05:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:05:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
